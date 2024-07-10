@@ -49,5 +49,12 @@ We optimized the agent by considering additional features like the direction and
 
 
 ### Demonstration Videos
-- **Approximate Q-learning Result**: [ApproximateQLearning.mp4](videos/ApproximateQLearning.mp4)
-- **Best Performance**: [Final.mp4](videos/Final.mp4)
+- **Approximate Q-learning Result**:
+
+https://github.com/am-azadi/BreakoutAI/assets/74763105/c0ebbcda-a0f0-413c-9299-253c8da6acaf
+
+
+- **Best Performance**:
+
+https://github.com/am-azadi/BreakoutAI/assets/74763105/c966666a-e551-4939-b5f7-d33f5d0772f6
+
