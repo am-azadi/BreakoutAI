@@ -46,3 +46,8 @@ We optimized the agent by considering additional features like the direction and
 ## Results
 - The agent's performance improved significantly through each stage.
 - The final implementation demonstrates a high level of skill in playing Breakout, avoiding losses, and achieving high scores.
+
+
+### Demonstration Videos
+- **Approximate Q-learning Result**: [ApproximateQLearning.mp4](videos/ApproximateQLearning.mp4)
+- **Best Performance**: [Final.mp4](videos/Final.mp4)
